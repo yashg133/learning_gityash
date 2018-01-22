@@ -1,0 +1,207 @@
+body{
+    background-image: url("https://image.ibb.co/m0jJDb/img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.heading{
+	
+	width: : 1244px;
+	height: : 392px;
+	text-align: center;
+
+}
+.name{
+font-family: "Josefin Sans";
+font-size: 130px;
+color: #31FAF3;
+position: absolute;
+left: 16%;
+top: 20%;
+}
+.options{ 
+	font-family: "Adlanta";
+	color: #ffffff; 
+	position: absolute;
+	top:55%;
+	left:15%;
+    font-size: 35px;
+}
+a{ 
+	text-decoration: none;
+	color: #31FAF3;
+	 }
+a:hover{
+	color: white;
+}
+.fadebg{
+	width:90%;
+	height:500px;
+	left: 5%;
+	background-color: rgba(255,255,255,0.05);
+	position: absolute;
+	top: 140px;
+
+}
+.spacing{
+	 padding: 25px;
+}
+.about{
+	width:90%;
+	height:500px;
+	left: 5%;
+	background-color: rgba(255,255,255,0.05);
+	position: absolute;
+	top: 780px;
+
+}
+.profilephoto{
+	height:500px;
+	width: 500px;
+}
+.project{
+	width:90%;
+	height:700px;
+	left: 5%;
+	background-color: rgba(255,255,255,0.05);
+	position: absolute;
+	top: 1420px;
+}
+.about h1 {
+	font-family: "Adlanta";
+	color: #31FAF3;
+	font-size: 38px;
+    position: absolute;
+	top: -10px;
+	left:63%;
+	font-weight: 800;
+}
+.about p{
+	font-family: "Adlanta";
+	color: rgba(49,250,243,.8);
+	font-size: 24px;
+    position: absolute;
+	top: 60px;
+	left:41%;
+	}
+.project h1{
+	font-family: "Adlanta";
+	color: #31FAF3;
+	font-size: 38px;
+    position: absolute;
+	top: -10px;
+	left:45%;
+	font-weight: 800;
+
+}
+.projectimg1{
+	position: absolute;
+	top:85px;
+	left: 11px;
+	height:542px;
+	width: 574px;
+
+}
+.projectimg3{
+	position: absolute;
+	top:85px;
+	left: 938px;
+	height:330px;
+	width: 353px;
+
+}
+.projectimg2{
+	position: absolute;
+	top:85px;
+	left: 593px;
+	height:328px;
+	width: 334px;
+}
+.projectimg4{
+	position: absolute;
+	top:427px;
+	left: 593px;
+	height:199px;
+	width: 699px;
+}
+
+.resu{width:90%;
+	height:500px;
+	left: 5%;
+	background-color: rgba(255,255,255,0.05);
+	position: absolute;
+	top: 2260px;}
+
+.resu h1{
+	font-family: "Adlanta";
+	color: #31FAF3;
+	font-size: 60px;
+    position: absolute;
+	top: -10px;
+	left:43%;
+	font-weight: 800;
+}
+.resu p{
+	font-family: "Adlanta";
+	color: rgba(49,250,243,.8);
+	font-size: 102px;
+    position: absolute;
+	top: 183px;
+	left:31%;
+	border: solid 2px white;
+	padding: 10px;
+	}
+.resu h2{
+	font-family: "Adlanta";
+	color: rgba(49,250,243,.8);
+	font-size: 55px;
+    position: absolute;
+	top: 82px;
+	left:30%;
+}
+.contactat{
+	width:90%;
+	height:500px;
+	left: 5%;
+	background-color: rgba(255,255,255,0.05);
+	position: absolute;
+	top: 2900px;
+}
+.contactat h1{
+	font-family: "Adlanta";
+	color: #31FAF3;
+	font-size: 60px;
+    position: absolute;
+	top: -10px;
+	left:39%;
+	font-weight: 800;
+}
+.img1{
+	position: relative;
+	top:130px;
+	left:-93%;
+	height: 100px;
+	width: 100px;
+}
+.img2{
+	position: relative;
+	top:70px;
+	left:-90%;
+	height: 80px;
+	width: 80px;}
+.email{
+	font-family: "Adlanta";
+	color: rgba(49,250,243,.8);
+	font-size: 24px;
+    position: relative;
+	top: 33px;
+	left:-23%
+.phone
+{
+	font-family: "Adlanta";
+	color: rgba(49,250,243,.8);
+	font-size: 24px;
+    position: relative;
+	top: -8px;
+	left:-23%;
+}	
